@@ -11,6 +11,8 @@ Commonly used in safety and home automation projects for detecting leaks and smo
 
 THE MQ2 can detect gases when their concentrations are between 200 and 10,000 parts per million (ppm).
 
+Reference image : [here](https://github.com/kingston-hackSpace/MQ2_Gas_detector/blob/main/smokepicture.webp)
+
 ### WHICH GAS?
 It can detect:
 - LPG (liquefied petroleum gas)
