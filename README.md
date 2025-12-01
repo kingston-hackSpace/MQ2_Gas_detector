@@ -44,8 +44,11 @@ It can detect:
 ### WIRING
 Diagram reference image : [here](https://github.com/kingston-hackSpace/MQ2_Gas_detector/blob/main/GasDetec.png)
 
-Arduino
-A0
+| MQ2             | Connect to Arduino   |
+| --------------- | -------------------- |
+| VCC             | Arduino 5V           |
+| GND             | Arduino GND          |
+| AO (analog out) | Arduino A0 pin       |
 
 ----
 ### CODE AND INSTRUCTIONS
