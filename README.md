@@ -41,8 +41,11 @@ It can detect:
 - MQ2 Gas detector
 
 ----
-### WIRE
+### WIRING
 Diagram reference image : [here](https://github.com/kingston-hackSpace/MQ2_Gas_detector/blob/main/GasDetec.png)
+
+Arduino
+A0
 
 ----
 ### CODE AND INSTRUCTIONS
