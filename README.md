@@ -41,7 +41,7 @@ It can detect:
 
 ----
 ### WIRE
-Diagram reference image : [here]
+Diagram reference image : [here](https://github.com/kingston-hackSpace/MQ2_Gas_detector/blob/main/GasDetec.png)
 
 ----
 ### CODE AND INSTRUCTIONS
