@@ -38,10 +38,16 @@ It can detect:
 
 - ARDUINO UNO
 - MQ2 Gas detector
-- LED 
-- Resistor 220ohms
+
+----
+### WIRE
+Diagram reference image : [here]
 
 ----
 ### CODE AND INSTRUCTIONS
+
+- Upload [this code](https://github.com/kingston-hackSpace/MQ2_Gas_detector/blob/main/MQ2.ino) to your Arduino board
+  
+- Open the Arduino's Serial Monitor, you can now see the sensor's incoming data. 
 
 
